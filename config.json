@@ -1,0 +1,32 @@
+{
+  "paths": {
+    "path_to_data": "/home/user/Загрузки/Telegram Desktop/persons_china_2",
+    "path_to_save": "/home/user/Загрузки/Telegram Desktop/save/"
+  },
+  "classes": {
+    "seatbelt": {
+      "button": "i"
+    },
+    "no_seatbelt": {
+      "button": "o"
+    },
+    "unidentified": {
+      "button": "u"
+    }
+  },
+  "buttons": {
+    "next_image_button": "d",
+    "prev_image_button": "a",
+    "remove_image_button": "r",
+    "quit_button": "q",
+    "default_settings_button": "j"
+  },
+  "settings": {
+    "background_size": 500,
+    "max_scale_size": 10,
+    "default_gamma": 1,
+    "max_gamma": 10,
+    "default_brightness": 0,
+    "default_contrast": 0
+  }
+}
